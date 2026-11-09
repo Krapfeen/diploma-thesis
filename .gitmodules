@@ -1,0 +1,8 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:Krapfeen/diploma-thesis-server.git
+	branch = main
+[submodule "client"]
+	path = client
+	url = git@github.com:Krapfeen/diploma-thesis-client.git
+	branch = main
